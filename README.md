@@ -40,6 +40,10 @@ To run this project locally, ensure you have the following installed:
 
 You can view a live demo of this project [here](https://vercel.com).
 
+## Contributing
+
+If you'd like to contribute, feel free to open a pull request or create an issue.
+
 ## License
 
 This project is licensed under the MIT License.
