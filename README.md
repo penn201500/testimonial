@@ -38,7 +38,12 @@ To run this project locally, ensure you have the following installed:
 
 ## Screenshots
 
-![Desktop](images/desktop.png)
+<p>
+  <img src="images/desktop.png" alt="Desktop" width="45%" />
+  <p>Desktop</p>
+  <img src="images/mobile.png" alt="Mobile" width="22.6%" />
+  <p>Mobile</p>
+</p>
 
 ## Live Demo
 
