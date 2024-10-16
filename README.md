@@ -36,6 +36,10 @@ To run this project locally, ensure you have the following installed:
 
 2. Open `index.html` in your browser to view the site.
 
+## Screenshots
+
+![Desktop](images/desktop.png)
+
 ## Live Demo
 
 You can view a live demo of this project [here](https://vercel.com).
